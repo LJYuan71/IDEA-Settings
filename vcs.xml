@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/ctripcorp/apollo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/qjx378/solr-dataimport-scheduler" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\IdeaProjects\git\LJYuan71" />
+    <option name="cloneParentDir" value="D:\IdeaProjects\git\solr" />
   </component>
 </application>
