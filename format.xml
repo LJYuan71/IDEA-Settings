@@ -1,3 +1,0 @@
-<application>
-  <component name="FormatSetting" setFormat="/** 设置: #{bare_field_comment} 值 */ " getFormat="/** 获取: #{bare_field_comment} 值 */ " />
-</application>
