@@ -17,9 +17,7 @@
       <Rule active="false" key="Web:PageWithoutTitleCheck" />
       <Rule active="false" key="python:S5445" />
       <Rule active="false" key="php:S1656" />
-      <Rule active="false" key="java:S3281" />
       <Rule active="false" key="java:S3042" />
-      <Rule active="false" key="java:S5344" />
       <Rule active="false" key="ruby:S1656" />
       <Rule active="false" key="kotlin:S1871" />
       <Rule active="false" key="javascript:S2201" />
@@ -64,7 +62,6 @@
       <Rule active="false" key="java:S5361" />
       <Rule active="false" key="java:S4032" />
       <Rule active="false" key="java:S4274" />
-      <Rule active="false" key="java:S3066" />
       <Rule active="false" key="java:S4276" />
       <Rule active="false" key="java:S4034" />
       <Rule active="false" key="python:S2190" />
@@ -202,7 +199,6 @@
       <Rule active="false" key="java:S2112" />
       <Rule active="false" key="java:S2234" />
       <Rule active="false" key="java:S2235" />
-      <Rule active="false" key="java:S2115" />
       <Rule active="false" key="java:S2479" />
       <Rule active="false" key="java:S5869" />
       <Rule active="false" key="javascript:S108" />
@@ -217,10 +213,8 @@
       <Rule active="false" key="typescript:S2990" />
       <Rule active="false" key="typescript:S2870" />
       <Rule active="false" key="typescript:S2871" />
-      <Rule active="false" key="java:S4423" />
       <Rule active="false" key="java:S3577" />
       <Rule active="false" key="java:S3457" />
-      <Rule active="false" key="java:S4426" />
       <Rule active="false" key="java:S4425" />
       <Rule active="false" key="typescript:S1788" />
       <Rule active="false" key="java:S2129" />
@@ -239,11 +233,7 @@
       <Rule active="false" key="java:S2131" />
       <Rule active="false" key="typescript:S3972" />
       <Rule active="false" key="java:S2133" />
-      <Rule active="false" key="java:S2254" />
-      <Rule active="false" key="java:S4433" />
-      <Rule active="false" key="java:S4434" />
       <Rule active="false" key="java:S2139" />
-      <Rule active="false" key="java:S5527" />
       <Rule active="false" key="javascript:S128" />
       <Rule active="false" key="typescript:S1439" />
       <Rule active="false" key="typescript:S3616" />
@@ -259,11 +249,9 @@
       <Rule active="false" key="java:S4682" />
       <Rule key="java:S2141" />
       <Rule active="false" key="typescript:S3981" />
-      <Rule active="false" key="java:S4684" />
       <Rule active="false" key="java:S2386" />
       <Rule active="false" key="java:S2387" />
       <Rule active="false" key="java:S5411" />
-      <Rule active="false" key="java:S3355" />
       <Rule active="false" key="java:S4201" />
       <Rule active="false" key="java:S2388" />
       <Rule active="false" key="kotlin:S100" />
@@ -282,15 +270,12 @@
       <Rule active="false" key="javascript:S2137" />
       <Rule active="false" key="java:S2390" />
       <Rule active="false" key="python:S1716" />
-      <Rule active="false" key="java:S5542" />
       <Rule active="false" key="java:S2274" />
       <Rule active="false" key="java:S5786" />
       <Rule active="false" key="java:S5785" />
-      <Rule active="false" key="java:S5301" />
       <Rule active="false" key="java:S4454" />
       <Rule active="false" key="java:S2157" />
       <Rule active="false" key="java:S5669" />
-      <Rule active="false" key="java:S5547" />
       <Rule active="false" key="javascript:S2123" />
       <Rule active="false" key="typescript:S3516" />
       <Rule active="false" key="java:S3008" />
@@ -303,19 +288,15 @@
       <Rule active="false" key="javascript:S3579" />
       <Rule active="false" key="javascript:S3699" />
       <Rule active="false" key="java:S2160" />
-      <Rule key="java:S2162" />
       <Rule active="false" key="java:S3252" />
       <Rule active="false" key="java:S3010" />
       <Rule key="java:S2164" />
       <Rule active="false" key="java:S3011" />
-      <Rule active="false" key="java:S3374" />
       <Rule active="false" key="java:S2165" />
       <Rule active="false" key="java:S3012" />
       <Rule active="false" key="java:S2166" />
       <Rule active="false" key="java:S3014" />
-      <Rule active="false" key="java:S4347" />
       <Rule active="false" key="java:S4349" />
-      <Rule active="false" key="java:S5679" />
       <Rule active="false" key="javascript:S3686" />
       <Rule active="false" key="kotlin:S1144" />
       <Rule active="false" key="kotlin:S1145" />
@@ -383,7 +364,6 @@
       <Rule active="false" key="python:S1764" />
       <Rule active="false" key="ruby:S2068" />
       <Rule active="false" key="typescript:S3317" />
-      <Rule active="false" key="java:S2755" />
       <Rule active="false" key="java:S1643" />
       <Rule active="false" key="java:S1640" />
       <Rule active="false" key="typescript:S4524" />
@@ -401,7 +381,6 @@
       <Rule active="false" key="java:S1994" />
       <Rule active="false" key="python:S1542" />
       <Rule active="false" key="kotlin:S1186" />
-      <Rule active="false" key="java:S2647" />
       <Rule active="false" key="kotlin:S1066" />
       <Rule active="false" key="java:S1871" />
       <Rule active="false" key="typescript:S2598" />
@@ -418,9 +397,6 @@
       <Rule active="false" key="php:S2166" />
       <Rule active="false" key="typescript:S2123" />
       <Rule active="false" key="java:S3740" />
-      <Rule active="false" key="java:S1989" />
-      <Rule active="false" key="java:S4830" />
-      <Rule active="false" key="java:S2653" />
       <Rule active="false" key="typescript:S4782" />
       <Rule active="false" key="java:S3985" />
       <Rule active="false" key="java:S3864" />
@@ -437,13 +413,11 @@
       <Rule active="false" key="Web:UnsupportedTagsInHtml5Check" />
       <Rule key="java:S3750" />
       <Rule active="false" key="java:S1858" />
-      <Rule active="false" key="java:S3751" />
       <Rule active="false" key="java:S3631" />
       <Rule active="false" key="typescript:S2251" />
       <Rule active="false" key="java:S2786" />
       <Rule active="false" key="java:S1612" />
       <Rule active="false" key="java:S1854" />
-      <Rule active="false" key="java:S4601" />
       <Rule active="false" key="java:S1611" />
       <Rule active="false" key="java:S1610" />
       <Rule active="false" key="python:S3984" />
@@ -452,7 +426,6 @@
       <Rule active="false" key="java:S3878" />
       <Rule active="false" key="java:S3516" />
       <Rule active="false" key="python:S2772" />
-      <Rule key="java:S1850" />
       <Rule active="false" key="javascript:S930" />
       <Rule active="false" key="python:S3981" />
       <Rule active="false" key="ruby:ParsingError" />
@@ -730,7 +703,6 @@
       <Rule active="false" key="php:S5911" />
       <Rule active="false" key="java:S2975" />
       <Rule active="false" key="java:S1301" />
-      <Rule active="false" key="java:S2976" />
       <Rule active="false" key="java:S3824" />
       <Rule active="false" key="java:S2737" />
       <Rule active="false" key="python:S5795" />
