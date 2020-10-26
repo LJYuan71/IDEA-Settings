@@ -58,9 +58,13 @@
           <option name="url" value="http://git.ygxy.com/back-group/im.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitee.com/LJYuan71/aibi-component-dpcf.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\IdeaProjects\LJYuan71" />
+    <option name="cloneParentDir" value="D:\IdeaProjects\LJYuan71\LJYuan71" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
