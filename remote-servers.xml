@@ -1,0 +1,19 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="dev-Docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://192.168.66.254:2375" />
+      </configuration>
+    </remote-server>
+    <remote-server name="qa-Docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://192.168.66.252:2375" />
+      </configuration>
+    </remote-server>
+    <remote-server name="vm-Docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://192.168.66.71:2375" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>
