@@ -98,9 +98,17 @@
           <option name="url" value="http://git.ygxy.com/base-common/ygxy-es.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.gzygxy.com/back-group/news.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.gzygxy.com" />
+          <option name="userName" value="liaojiayuan@gzygxy.com" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\IdeaProjects\LJYuan71\base-common" />
+    <option name="cloneParentDir" value="D:\IdeaProjects\LJYuan71\ygxy" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
