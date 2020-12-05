@@ -11,6 +11,7 @@
   <action id="Console.Jdbc.Execute" />
   <action id="Console.TableResult.Submit" />
   <action id="ContextHelp" />
+  <action id="CopyElement" />
   <action id="Diff.ShowDiff" />
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="DuplicatesForm.SendToLeft" />
@@ -47,6 +48,7 @@
     <keyboard-shortcut first-keystroke="ctrl g" />
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
+  <action id="Graph.ApplyCurrentLayout" />
   <action id="Gsonformat" />
   <action id="IntroduceVariable">
     <keyboard-shortcut first-keystroke="ctrl 1" />
@@ -55,6 +57,10 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="shift ctrl l" />
+  </action>
+  <action id="RenameElement" />
+  <action id="RenameFile">
+    <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="f10" />
