@@ -190,6 +190,10 @@
           <option name="url" value="http://git.ygxy.com/back-group/burying-point.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.ygxy.com/back-group/burying.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects\LJYuan71" />
