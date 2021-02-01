@@ -5,8 +5,8 @@
       <mapping pattern=".reviewboardrc" type="PLAIN_TEXT" />
       <mapping pattern="comment_doc" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
-      <mapping ext="3" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
+      <mapping ext="3" type="PLAIN_TEXT" />
       <mapping ext="6" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
