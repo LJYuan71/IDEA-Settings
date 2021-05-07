@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="DeviceInfoDoc" type="PLAIN_TEXT" />
+      <mapping pattern="admission_brochure_doc" type="PLAIN_TEXT" />
       <mapping pattern=".reviewboardrc" type="PLAIN_TEXT" />
       <mapping pattern="news_topic_doc" type="PLAIN_TEXT" />
       <mapping pattern="comment_doc" type="PLAIN_TEXT" />
