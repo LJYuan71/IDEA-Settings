@@ -12,6 +12,7 @@
       <mapping pattern="comment_doc" type="PLAIN_TEXT" />
       <mapping pattern="topic_comment_doc" type="PLAIN_TEXT" />
       <mapping pattern="BuryingPointDataDoc" type="PLAIN_TEXT" />
+      <mapping ext="7" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="2" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
