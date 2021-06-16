@@ -246,6 +246,10 @@
           <option name="url" value="http://git.ygxy.com/back-group/ocr.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.ygxy.com/back-group/wx-mp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects\LJYuan71" />
