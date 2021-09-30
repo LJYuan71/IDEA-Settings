@@ -318,6 +318,10 @@
           <option name="url" value="https://hub.fastgit.org/apache/skywalking-java.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitclone.com/github.com/apache/skywalking-java.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects\LJYuan71" />
