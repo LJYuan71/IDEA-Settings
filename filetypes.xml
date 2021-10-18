@@ -25,6 +25,7 @@
       <mapping ext="8" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="5" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
