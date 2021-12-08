@@ -326,9 +326,13 @@
           <option name="url" value="http://192.168.66.253:9010/base-common/ygxy-crontab.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.66.253:9010/back-group/ag.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\IdeaProjects\LJYuan71\base-common" />
+    <option name="cloneParentDir" value="D:\IdeaProjects\LJYuan71" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
