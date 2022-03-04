@@ -3,7 +3,7 @@
     <property name="created">2019-01-22T11:51:44</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.1.0.0</property>
-    <property name="modified">2022-03-03T17:42:53</property>
+    <property name="modified">2022-03-04T09:46:09</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -53,10 +53,13 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="3c3f41" />
-        <option name="ERROR_STRIPE_COLOR" value="e7bb0e" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="1e6b9e" />
+        <option name="ERROR_STRIPE_COLOR" value="1e6b9e" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
+    </option>
+    <option name="INJECTED_LANGUAGE_FRAGMENT">
+      <value />
     </option>
     <option name="JAVA_DOC_TAG">
       <value>
@@ -67,7 +70,8 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="3c3f41" />
+        <option name="FOREGROUND" value="e8e8e8" />
+        <option name="ERROR_STRIPE_COLOR" value="3c3f41" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -111,7 +115,8 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="3c3f41" />
+        <option name="EFFECT_COLOR" value="f49810" />
+        <option name="ERROR_STRIPE_COLOR" value="f49810" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -126,7 +131,9 @@
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="e8e8e8" />
         <option name="EFFECT_COLOR" value="3c3f41" />
+        <option name="ERROR_STRIPE_COLOR" value="3c3f41" />
       </value>
     </option>
   </attributes>
