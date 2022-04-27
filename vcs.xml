@@ -398,6 +398,10 @@
           <option name="url" value="https://hub.fastgit.org/bytedance/godlp.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.66.253:9010/back-group/edu-invest.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects\LJYuan71" />
