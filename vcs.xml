@@ -406,9 +406,13 @@
           <option name="url" value="http://192.168.66.253:9010/back-group/demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.66.253:9010/base-common/ygxy-start-parent.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\IdeaProjects\test" />
+    <option name="cloneParentDir" value="D:\IdeaProjects\LJYuan71\base-common" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
