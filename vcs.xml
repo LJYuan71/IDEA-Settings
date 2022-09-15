@@ -518,6 +518,10 @@
           <option name="url" value="https://git.gzygxy.com/base-common/ygxy-excel.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.gzygxy.com/base-common/ygxy-server-register.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects\LJYuan71\base-common" />
