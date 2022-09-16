@@ -526,6 +526,10 @@
           <option name="url" value="https://git.gzygxy.com/back-group/wx-mp" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.gzygxy.com/back-group/edu-invest" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects\LJYuan71" />
