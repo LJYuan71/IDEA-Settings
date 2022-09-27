@@ -546,6 +546,10 @@
           <option name="url" value="https://github.com/salt047/automatic_tagging_of_articles.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/cliuxinxin/TX-WORD2VEC-SMALL.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects\LJYuan71\PythonProjects" />
