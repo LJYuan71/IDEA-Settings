@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="fix" type="PLAIN_TEXT" />
+      <mapping pattern="reduse_corpus" type="PLAIN_TEXT" />
       <mapping pattern="reply_doc" type="PLAIN_TEXT" />
       <mapping pattern="DeviceInfoDoc" type="PLAIN_TEXT" />
       <mapping pattern="admission_brochure_doc" type="PLAIN_TEXT" />
@@ -11,6 +12,7 @@
       <mapping pattern="vote_doc" type="PLAIN_TEXT" />
       <mapping pattern="news_topic_doc" type="PLAIN_TEXT" />
       <mapping pattern="comment_doc" type="PLAIN_TEXT" />
+      <mapping pattern="reduse_corpus.txt" type="PLAIN_TEXT" />
       <mapping pattern="topic_comment_doc" type="PLAIN_TEXT" />
       <mapping pattern="BuryingPointDataDoc" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
