@@ -23,6 +23,7 @@
       <mapping ext="3" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
       <mapping ext="4" type="PLAIN_TEXT" />
+      <mapping ext="word2vec" type="PLAIN_TEXT" />
       <mapping ext="6" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
