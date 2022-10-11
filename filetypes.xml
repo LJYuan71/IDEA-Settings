@@ -27,6 +27,7 @@
       <mapping ext="word2vec" type="PLAIN_TEXT" />
       <mapping ext="6" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="name" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="9" type="PLAIN_TEXT" />
       <mapping ext="ymlbak" type="PLAIN_TEXT" />
