@@ -19,11 +19,11 @@
       <mapping ext="npy" type="PLAIN_TEXT" />
       <mapping ext="7" type="PLAIN_TEXT" />
       <mapping ext="record" type="PLAIN_TEXT" />
-      <mapping ext="2" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
+      <mapping ext="2" type="PLAIN_TEXT" />
       <mapping ext="10" type="PLAIN_TEXT" />
-      <mapping ext="3" type="PLAIN_TEXT" />
       <mapping ext="0" type="PLAIN_TEXT" />
+      <mapping ext="3" type="PLAIN_TEXT" />
       <mapping ext="4" type="PLAIN_TEXT" />
       <mapping ext="word2vec" type="PLAIN_TEXT" />
       <mapping ext="6" type="PLAIN_TEXT" />
