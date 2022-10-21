@@ -5,7 +5,7 @@
         <option name="apiUrl" value="tcp://192.168.66.254:2375" />
       </configuration>
     </remote-server>
-    <remote-server name="qa-Docker" type="docker">
+    <remote-server name="qa1-Docker" type="docker">
       <configuration>
         <option name="apiUrl" value="tcp://192.168.66.252:2375" />
       </configuration>
@@ -13,6 +13,11 @@
     <remote-server name="vm-Docker" type="docker">
       <configuration>
         <option name="apiUrl" value="tcp://192.168.66.71:2375" />
+      </configuration>
+    </remote-server>
+    <remote-server name="qa-Docker" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://192.168.66.250:2375" />
       </configuration>
     </remote-server>
   </component>
