@@ -6,6 +6,14 @@
       <mapping pattern="admission_brochure_doc" type="PLAIN_TEXT" />
       <mapping pattern="news_topic_doc" type="PLAIN_TEXT" />
       <mapping pattern="fix" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="reduse_corpus" type="PLAIN_TEXT" />
+      <mapping pattern="reply_doc" type="PLAIN_TEXT" />
+      <mapping pattern="DeviceInfoDoc" type="PLAIN_TEXT" />
+      <mapping pattern="admission_brochure_doc" type="PLAIN_TEXT" />
+      <mapping pattern="log" type="PLAIN_TEXT" />
+      <mapping pattern="1.json" type="PLAIN_TEXT" />
+      <mapping pattern=".reviewboardrc" type="PLAIN_TEXT" />
       <mapping pattern="vote_doc" type="PLAIN_TEXT" />
       <mapping pattern="DeviceInfoDoc" type="PLAIN_TEXT" />
       <mapping pattern="comment_doc" type="PLAIN_TEXT" />
@@ -23,6 +31,8 @@
       <mapping ext="4" type="PLAIN_TEXT" />
       <mapping ext="6" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="7-es" type="PLAIN_TEXT" />
+      <mapping ext="name" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="9" type="PLAIN_TEXT" />
       <mapping ext="ymlbak" type="PLAIN_TEXT" />
