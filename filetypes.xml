@@ -5,6 +5,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="fix" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="fix-shardingsphere" type="PLAIN_TEXT" />
       <mapping pattern="reduse_corpus" type="PLAIN_TEXT" />
       <mapping pattern="reply_doc" type="PLAIN_TEXT" />
       <mapping pattern="DeviceInfoDoc" type="PLAIN_TEXT" />
