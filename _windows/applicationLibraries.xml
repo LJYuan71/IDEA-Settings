@@ -5,8 +5,6 @@
         <root url="file://D:/Program Files/Python310/DLLs" />
         <root url="file://D:/Program Files/Python310/Lib" />
         <root url="file://D:/Program Files/Python310" />
-        <root url="file://D:/IdeaProjects/LJYuan71/PythonProjects/word2vec/venv" />
-        <root url="file://D:/IdeaProjects/LJYuan71/PythonProjects/word2vec/venv/Lib/site-packages" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/python_stubs/1841886476" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
@@ -20,8 +18,6 @@
         <root url="file://D:/Program Files/Python310/DLLs" />
         <root url="file://D:/Program Files/Python310/Lib" />
         <root url="file://D:/Program Files/Python310" />
-        <root url="file://D:/IdeaProjects/LJYuan71/PythonProjects/word2vec/venv" />
-        <root url="file://D:/IdeaProjects/LJYuan71/PythonProjects/word2vec/venv/Lib/site-packages" />
         <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/python_stubs/1841886476" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
@@ -30,6 +26,26 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
+    </library>
+    <library name="scala-sdk-2.12.15" type="Scala">
+      <properties>
+        <compiler-classpath>
+          <root url="file://D:/Program Files (x86)/scala-2.12.15/lib/scala-compiler.jar" />
+          <root url="file://D:/Program Files (x86)/scala-2.12.15/lib/scala-library.jar" />
+          <root url="file://D:/Program Files (x86)/scala-2.12.15/lib/scala-reflect.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://D:/Program Files (x86)/scala-2.12.15/lib/scala-library.jar!/" />
+        <root url="jar://D:/Program Files (x86)/scala-2.12.15/lib/scala-parser-combinators_2.12-1.0.7.jar!/" />
+        <root url="jar://D:/Program Files (x86)/scala-2.12.15/lib/scala-reflect.jar!/" />
+        <root url="jar://D:/Program Files (x86)/scala-2.12.15/lib/scala-swing_2.12-2.0.3.jar!/" />
+        <root url="jar://D:/Program Files (x86)/scala-2.12.15/lib/scala-xml_2.12-1.0.6.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="https://www.scala-lang.org/api/2.12.15/" />
+      </JAVADOC>
+      <SOURCES />
     </library>
   </component>
 </application>
